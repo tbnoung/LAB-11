@@ -13,6 +13,8 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-1.png">
 </p>
+###ผลที่ได้
+![](https://github.com/tbnoung/LAB-11/blob/master/11.1.PNG)
 
 ### การระบายสีด้วย HatchBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
@@ -20,11 +22,17 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-2.png">
 </p>
 
+###ผลที่ได้
+![](https://github.com/tbnoung/LAB-11/blob/master/11.2.PNG)
+
 ### การระบายสีด้วย TextureBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-3.png">
 </p>
+###ผลที่ได้
+![](https://github.com/tbnoung/LAB-11/blob/master/11.3.PNG)
+
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
 
 ### การระบายสีด้วย TextureBrush
@@ -42,6 +50,8 @@
    <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
 </p>
+###ผลที่ได้
+![](https://github.com/tbnoung/LAB-11/blob/master/11.4.PNG)
 
 ### การระบายสีด้วย Path Gradient Brush
 
@@ -57,10 +67,13 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
 </p>
-
+###ผลที่ได้
+![](https://github.com/tbnoung/LAB-11/blob/master/11.5.PNG)
 
 ###แบบทดสอบ 
 ให้เลื่อนจุดศูนย์กลางและปรับเปลี่ยนสี ให้ได้รูปดังนี้
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
+###ผลที่ได้
+![](https://github.com/tbnoung/LAB-11/blob/master/11.6.PNG)
